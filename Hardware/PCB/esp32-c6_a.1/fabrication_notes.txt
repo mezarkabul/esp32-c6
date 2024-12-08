@@ -1,0 +1,23 @@
+Fabrication Notes:
+
+1.  PCB specifications:
+    Board Size: 20mm x 50mm
+    Board Thickness: 1.0mm +-10%
+    Solder Stop Color:  Black
+    Silkscreen:  White, Both sides
+    Number of Layers: 4
+    Clearance / Minimum width / Minimum Annular Ring: 0.135mm/0.1mm/0.1mm
+    Minimum Hole Size: 0.3mm
+    Surface: Enig
+    Impedance Control: Yes
+    Micro Via: -
+    Burried Via: -
+
+2.  This PCB is designed to meet performance class 2 specifications outlined in IPC-2221. The bare PCB must undergo testing for test level B as per IPC-9252 standard.
+3.  Please add UL recognized marking relevant to UL94V-0 and UL 796 on the PCB or panel.
+4.  The PCB should comply with IPC-A-600 Class 2 standards.
+5.  All the parts and materials shall be ROHS3 Compliant, REACH Unaffected, and halogen free.
+6.  All the distributors and manufacturers are obliged to care about conflict free minerals in their supply chain.
+
+
+         
