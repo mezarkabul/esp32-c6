@@ -278,20 +278,24 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for esp32_c6_a1\Design Rule Check - esp32_c6_a1.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=sch_designer
+Name=pcb_designer
 Value=Ali Fatih Demir
 
 [Parameter2]
-Name=Revision
-Value=A.1
-
-[Parameter3]
 Name=project_title
 Value=ESP32-C6 Multi Sensor Board
 
+[Parameter3]
+Name=Revision
+Value=A.1
+
 [Parameter4]
-Name=pcb_designer
+Name=sch_designer
 Value=Ali Fatih Demir
 
 [Configuration1]
