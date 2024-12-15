@@ -76,7 +76,9 @@ The ESP32-C6 Multi-Sensor Board includes the following features:
 
 The schematics for the project are available:
 
-[esp32_c6_a1_schematic.PDF](https://github.com/user-attachments/files/18142042/esp32_c6_a1_schematic.PDF)
+[esp32_c6_a1_schematic.PDF](https://github.com/user-attachments/files/18142218/esp32_c6_a1_schematic.PDF)
+
+
 
 - **Top Page:** High-level connectivity overview
 - **SoC Integration:** ESP32-C6 Wifi/BT SoC
