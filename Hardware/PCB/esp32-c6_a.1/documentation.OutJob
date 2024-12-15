@@ -47,7 +47,7 @@ OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=5.94|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=19685039|ViewY=7874016|LookAtX=83110240|LookAtY=72637792|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=6.05028011374527E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\esp32_c6_a1.PcbDoc
 OutputType2=ExportSTEP
@@ -62,6 +62,8 @@ OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=1
 OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\esp32_c6_a1.PcbDoc
 OutputType3=Schematic Print
 OutputName3=Schematic Prints
 OutputCategory3=Documentation
@@ -90,9 +92,11 @@ OutputEnabled4_OutputMedium4=1
 OutputEnabled4_OutputMedium5=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=9|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9|DocumentPath=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\esp32_c6_a1.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\documentation.PDF
+OutputFilePath2=Project Outputs for Free Documents\Documentation\documentation.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for Free Documents
 OutputPathMedia2=Documentation
@@ -106,7 +110,7 @@ UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
 PromptOverwrite2=1
-PublishMethod2=0
+PublishMethod2=1
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
 FitPCBPrintSizeToDoc2=1
@@ -119,7 +123,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Project Outputs for Free Documents\documentation.PDF
+OutputFilePath3=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Documentation\documentation.PDF
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for esp32_c6_a1
 OutputPathMedia3=Documentation
@@ -133,7 +137,7 @@ UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
 PromptOverwrite3=1
-PublishMethod3=0
+PublishMethod3=1
 ZoomLevel3=50
 FitSCHPrintSizeToDoc3=1
 FitPCBPrintSizeToDoc3=1
@@ -146,7 +150,7 @@ ShowComponentParameters3=1
 GlobalBookmarks3=0
 PDFACompliance3=Disabled
 PDFVersion3=Default
-OutputFilePath4=Project Outputs for Free Documents\documentation.PDF
+OutputFilePath4=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Documentation\documentation.PDF
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for esp32_c6_a1
 OutputPathMedia4=Documentation
@@ -160,7 +164,7 @@ UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=0
 PromptOverwrite4=1
-PublishMethod4=0
+PublishMethod4=1
 ZoomLevel4=50
 FitSCHPrintSizeToDoc4=1
 FitPCBPrintSizeToDoc4=1
@@ -173,7 +177,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=Project Outputs for Free Documents\
+OutputFilePath5=Project Outputs for Free Documents\Documentation\
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for Free Documents
 OutputPathMedia5=Documentation
@@ -188,13 +192,13 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\documentation.PDF
+RelativeOutputPath2=Project Outputs for Free Documents\Documentation\documentation.PDF
 OpenOutputs2=0
-RelativeOutputPath3=Project Outputs for Free Documents\documentation.PDF
+RelativeOutputPath3=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Documentation\documentation.PDF
 OpenOutputs3=0
-RelativeOutputPath4=Project Outputs for Free Documents\documentation.PDF
+RelativeOutputPath4=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Documentation\documentation.PDF
 OpenOutputs4=0
-RelativeOutputPath5=Project Outputs for Free Documents\
+RelativeOutputPath5=Project Outputs for Free Documents\Documentation\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0

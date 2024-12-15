@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=fabrication.OutJob
 Description=
 TargetOutputMedium=Assembly
 VariantName=standart
@@ -64,11 +64,11 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
-OutputEnabled3_OutputMedium4=0
+OutputEnabled3_OutputMedium4=3
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration3_Name1=ColumnNameFormat
@@ -80,9 +80,9 @@ Configuration3_Item3=MPN=True
 Configuration3_Name4=SortOrder
 Configuration3_Item4=Designator=Up|Footprint=Up
 Configuration3_Name5=VisibleOrder
-Configuration3_Item5=Designator=120|Manufacturer=100|MPN=100|Description=120|Footprint=120|Quantity=120
+Configuration3_Item5=Designator=120|Manufacturer=100|MPN=100|Value=100|Description=120|Footprint=120|Quantity=120
 Configuration3_Name6=VisibleOrder_Flat
-Configuration3_Item6=Designator=120|Manufacturer=100|MPN=100|Description=120|Footprint=120|Quantity=120
+Configuration3_Item6=Designator=120|Manufacturer=100|MPN=100|Value=100|Description=120|Footprint=120|Quantity=120
 OutputType4=Assembly
 OutputName4=Assembly Drawings
 OutputCategory4=Assembly
@@ -209,9 +209,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Project Outputs for Free Documents\
+OutputFilePath3=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Fabrication\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for esp32_c6_a1
 OutputPathMedia3=Fabrication
 OutputPathMediaValue3=Fabrication
 OutputPathOutputer3=
@@ -222,7 +222,7 @@ OutputFileNameMulti3=Fabrication
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\
+OutputFilePath4=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Output\
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for esp32_c6_a1
 OutputPathMedia4=Output
@@ -239,7 +239,7 @@ OpenOutput4=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=Project Outputs for Free Documents\Assembly\fabrication.PDF
 OpenOutputs2=0
-RelativeOutputPath3=Project Outputs for Free Documents\
+RelativeOutputPath3=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Fabrication\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
@@ -249,7 +249,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\
+RelativeOutputPath4=G:\My Drive\Altium-Projeler\afd\esp32-c6\Hardware\PCB\esp32-c6_a.1\Project Outputs for esp32_c6_a1\Output\
 OpenOutputs4=0
 AddToProject4=0
 TimestampFolder4=0
