@@ -1,0 +1,4 @@
+Assembly Notes:
+
+1. All the parts and materials shall be ROHS3 Compliant, REACH Unaffected, and halogen free.
+2. The assembly should comply with IPC-A-610 Class 2 standards.

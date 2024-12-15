@@ -1,0 +1,45 @@
+GTO  - Top Overlay (silkscreen)
+GBO  - Bottom Overlay (silkscreen)
+GTS  - Top Solder Mask
+GBS  - Bottom Solder Mask
+GTP  - Top Paste Mask
+GBP  - Bottom Paste Mask
+
+GTL  - Top Layer
+GBL  - Bottom Layer
+Gx   - Signal Layer x
+GPx  - Plane x
+
+GM1  - Board Border
+GM2  - Panel Border
+GM3  - V-Cut
+GM4  - Cut-Out
+GM5  - Fabrication Notes
+GM6  - Assembly Notes
+GM7  - Designators Top
+GM8  - Designators Bottom
+GM9  - Notes Top
+GM10 - Notes Bottom
+GM11 - Body Top
+GM12 - Body Bottom
+GM13 - Outline Top
+GM14 - Outline Bottom
+GM15 - Courtyard Top
+GM16 - Courtyard Bottom
+GM17 - Object Top
+GM18 - Object Bottom
+GM31 - Dimensions
+GM32 - Sheet
+
+GPT - Gerber Top Pad Master
+GPB - Gerber Bottom Pad Master
+GKO - Gerber Keepout
+
+GDx - Gerber Drill Drawing x
+GGx - Gerber Drill Guide x
+
+REP - Report file
+TXT - ASCII NC Drill
+DRL - EIA NC Drill
+DRR - NC Drill Report
+APR - Aperature File
