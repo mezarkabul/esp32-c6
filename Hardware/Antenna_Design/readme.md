@@ -20,23 +20,22 @@ Given the antenna impedance (Ω50 Ω) is higher than the ESP32-C6 input impedanc
 ## Component Calculation
 
 
-![antenna_matching_calculation](https://github.com/user-attachments/assets/342fd434-18d3-4b76-ae1b-1535d4a8341e)
-
+![resonant_frequency_calculation](https://github.com/user-attachments/assets/cb90a101-60c6-4cd1-bca9-735ea93a6af1)
 
 ---
 
 ## Final Component Values
-- **Series Inductor (μL)**: **1.5 nH**
-- **Shunt Capacitor (μC)**: **0.9 pF**
+- **Series Inductor (μL)**: **2.2 nH**
+- **Shunt Capacitor (μC)**: **4 pF**
 
 ---
 
 ## Circuit Diagram
 ```
       Antenna     Series Inductor     ESP32-C6
-      -----o---- L (1.5 nH) ----o-----
+      -----o---- L (2.2 nH) ----o-----
                  |                  |
-                 C (0.9 pF)      C (0.9 pF) 
+                 C (4 pF)      C (4 pF) 
                  |                  |
                 GND                GND
 ```
